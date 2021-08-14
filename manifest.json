@@ -1,0 +1,26 @@
+{
+  "description": "This extension let Firefox display .ipynb file content",
+  "manifest_version": 2,
+  "name": "ipynb-viewer",
+  "version": "0.0.1",
+  "author": "Hoang Ngo",
+  "homepage_url": "https://github.com/hoangnv735/ipynb-viewer-firefox",
+
+  "browser_action": {
+    "default_title": "ipynb-viewer",
+    "default_icon": "icons/icon.png"
+  },
+  "permissions": [
+    "activeTab"
+  ],
+
+  "background": {
+    "scripts" : [
+      "/js/background.js"
+    ]
+  },
+
+  "web_accessible_resources": [
+    "view.html"
+  ]
+}
