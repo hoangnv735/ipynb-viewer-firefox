@@ -2,6 +2,11 @@
 
 `ipynb-viewer` is a Firefox addons to view .ipynb file without notebook server
 
+
+## Install
+
+I wrote this addons for my personal usage, so I dont 
+
 ## Usage
 
 After installed, click on addons icon to open view-tab.
