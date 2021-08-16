@@ -2,10 +2,13 @@
 
 `ipynb-viewer` is a Firefox addons to view .ipynb file without notebook server
 
-
 ## Install
 
-I wrote this addons for my personal usage, so I dont 
+I wrote this addons for my personal usage, and the code is still messy.
+Nevermind, it works though.
+
+Check for lastest version at the [Release page](https://github.com/hoangnv735/ipynb-viewer-firefox/releases).
+Download ipynb_viewer-x.y.z-firefox.xpi and install it to Firefox.
 
 ## Usage
 
